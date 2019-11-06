@@ -1,0 +1,2 @@
+# college-magazine
+our project
